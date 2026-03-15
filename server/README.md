@@ -2,6 +2,11 @@
 
 Yeh Node server Facebook aur Instagram ke **live follower counts** website par dikhane ke liye use hota hai.
 
+**Agar counts "—" hi dikh rahe hain:**  
+1) Server chalayein: `cd server && npm install && npm start`, phir site **http://localhost:3000** se open karein (taake `/api/social-stats` same origin ho).  
+2) `.env` mein `FACEBOOK_PAGE_ID` aur `FACEBOOK_ACCESS_TOKEN` zaroor set karein (see below).  
+3) Facebook share link se numeric Page ID nahi milta – Page → Settings → About se Page ID copy karein.
+
 ## Kaise kaam karta hai
 
 - Server **Meta Graph API** se Facebook Page ka `fan_count` (likes) aur linked **Instagram Business** account ka `followers_count` fetch karta hai.

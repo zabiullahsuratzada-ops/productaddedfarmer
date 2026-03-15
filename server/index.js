@@ -11,6 +11,12 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// CORS so frontend on any domain can get follower counts
+app.use((req, res, next) => {
+  res.set('Access-Control-Allow-Origin', '*');
+  next();
+});
+
 // Cache: { data: { facebook, instagram }, expiresAt: number }
 let socialCache = null;
 const CACHE_TTL_MS = 60 * 60 * 1000; // 1 hour
