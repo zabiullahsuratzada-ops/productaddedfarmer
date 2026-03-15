@@ -17,12 +17,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
-        /* ============================================
-   FARMER GROUP - Clean Standalone CSS
-   Rebuilt from WordPress Theme
-   ============================================ */
 
-        /* ---------- CSS Variables ---------- */
         :root {
             --primary-color: #9cc212;
             --primary-dark: #87af26;
@@ -38,7 +33,6 @@
             --transition: all 0.3s ease;
         }
 
-        /* ---------- Reset & Base Styles ---------- */
         *,
         *::before,
         *::after {
@@ -58,7 +52,7 @@
             color: var(--text-dark);
             background-color: var(--white);
             overflow-x: hidden;
-            max-width: 1500px;
+            max-width: 1700px;
             margin: auto;
         }
 
@@ -700,123 +694,6 @@
             line-height: 1.7;
         }
 
-        /* ---------- Testimonials Section ---------- */
-        .testimonials {
-            background-image: url('../images/testimonial-bg.jpg');
-            background-size: cover;
-            background-position: center;
-            padding: 90px 0 60px;
-        }
-
-        .testimonials .section-header {
-            margin-bottom: 30px;
-        }
-
-        .testimonials .section-header h2 {
-            font-size: 30px;
-            color: var(--text-dark);
-            margin-bottom: 10px;
-        }
-
-        .testimonials .section-header p {
-            color: var(--text-light);
-            font-size: 16px;
-        }
-
-        .testimonial-slider {
-            display: flex;
-            gap: 30px;
-            overflow: hidden;
-        }
-
-        .testimonial-item {
-            flex: 0 0 calc(50% - 15px);
-            background: var(--white);
-            border-radius: 5px;
-            padding: 30px;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
-        }
-
-        .testimonial-content {
-            position: relative;
-            margin-bottom: 25px;
-        }
-
-        .quote-icon {
-            width: 40px;
-            height: 40px;
-            fill: var(--primary-color);
-            margin-bottom: 15px;
-        }
-
-        .testimonial-text {
-            font-size: 16px;
-            color: var(--text-light);
-            line-height: 1.8;
-            font-style: italic;
-        }
-
-        .testimonial-author {
-            display: flex;
-            align-items: center;
-            gap: 15px;
-        }
-
-        .author-image {
-            width: 80px;
-            height: 80px;
-            border-radius: 50%;
-            overflow: hidden;
-        }
-
-        .author-image img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .author-info h4 {
-            font-size: 18px;
-            color: var(--text-dark);
-            margin-bottom: 5px;
-        }
-
-        .author-info .location {
-            font-size: 14px;
-            color: var(--text-light);
-            margin-bottom: 8px;
-        }
-
-        .star-rating {
-            color: #ffc107;
-            font-size: 14px;
-        }
-
-        .star-rating i {
-            margin-right: 2px;
-        }
-
-        /* Testimonial Dots */
-        .testimonial-dots {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin-top: 30px;
-        }
-
-        .dot {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-            background-color: var(--gray-medium);
-            cursor: pointer;
-            transition: var(--transition);
-        }
-
-        .dot.active {
-            background-color: var(--primary-color);
-        }
-
         /* ---------- Footer Widgets ---------- */
         .footer-widgets {
             background-color: var(--secondary-color);
@@ -1129,7 +1006,6 @@
                 justify-content: center;
             }
 
-            /* Header */
             .navbar-toggle {
                 display: block;
             }
@@ -1142,7 +1018,6 @@
                 height: 40px;
             }
 
-            /* Slider */
             .slider-container {
                 height: 300px;
             }
@@ -1186,15 +1061,6 @@
                 flex: 0 0 50%;
             }
 
-            /* Testimonials */
-            .testimonial-slider {
-                flex-direction: column;
-            }
-
-            .testimonial-item {
-                flex: 0 0 100%;
-            }
-
             /* Footer */
             .footer-col {
                 flex: 0 0 50%;
@@ -1223,10 +1089,6 @@
             }
 
             .what-we-do {
-                padding: 60px 0 40px;
-            }
-
-            .testimonials {
                 padding: 60px 0 40px;
             }
 
@@ -1557,6 +1419,10 @@
                                         <ul class="sub-menu">
                                             <li><a href="vegetable.html">Vegetable Seeds</a></li>
                                             <li><a href="fruit.html">Fruit Seeds</a></li>
+                                            <li><a href="flower.html">Flower Seed</a></li>
+                                            <li><a href="field-crop.html">Field Crop Seed</a></li>
+                                            <li><a href="fertilizer.html">Fertilizer</a></li>
+                                            <li><a href="pesticides.html">Pesticides</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="contact.html">Contact</a></li>
@@ -1575,7 +1441,7 @@
             <section class="hero-slider">
                 <div class="slider-container">
                     <!-- Slide 1 -->
-                    <div class="slide active" style="background-image: url('images/slider-1.jpg');">
+                    <div class="slide active" style="background-image: url('images/hero-1.jpg');">
                         <div class="slide-content">
                             <h1 class="slide-title">Quality First!</h1>
                             <p class="slide-description">Farmer Group continues its service with the understanding of
@@ -1586,7 +1452,7 @@
                     </div>
 
                     <!-- Slide 2 -->
-                    <div class="slide" style="background-image: url('images/slider-2.jpg');">
+                    <div class="slide" style="background-image: url('images/hero-2.jpg');">
                         <div class="slide-content">
                             <h1 class="slide-title">Natural Crop!</h1>
                             <p class="slide-description">We produce natural products that do not harm the nature of
@@ -1627,7 +1493,7 @@
                     </div>
 
                     <!-- Service Card 1 -->
-                    <div class="service-card service-card-1" style="background-image: url('images/services-1.jpg');">
+                    <div class="service-card service-card-1" style="background-image: url('images/service-pattern-1.png');">
                         <div class="service-card-content">
                             <div class="icon-wrapper">
                                 <span class="svg-icon" style="width:40px; height:40px;">
@@ -1643,7 +1509,7 @@
                     </div>
 
                     <!-- Service Card 2 -->
-                    <div class="service-card service-card-2" style="background-image: url('images/services-2.jpg');">
+                    <div class="service-card service-card-2" style="background-image: url('images/service-pattern-2.png');">
                         <div class="service-card-content">
                             <div class="icon-wrapper">
                                 <span class="svg-icon" style="width:40px; height:40px;">
@@ -1729,80 +1595,6 @@
                 </div>
             </section>
 
-            <!-- Testimonials Section -->
-            <section class="testimonials">
-                <div class="container">
-                    <div class="section-header">
-                        <h2>Testimonials</h2>
-                        <p>"Valuable" comments from our "valued" customers.</p>
-                    </div>
-
-                    <div class="testimonial-slider">
-                        <!-- Testimonial 1 -->
-                        <div class="testimonial-item">
-                            <div class="testimonial-content">
-                                <span class="svg-icon quote-icon" style="width:40px; height:40px; color:#9cc212;">
-                                    <svg>
-                                        <use href="#icon-quotation"></use>
-                                    </svg>
-                                </span>
-                                <p class="testimonial-text">"I thank them for their work. Our products have naturally
-                                    increased their yields."</p>
-                            </div>
-                            <div class="testimonial-author">
-                                <div class="author-image">
-                                    <img src="images/testimonial-1.png" alt="Hüseyin A.">
-                                </div>
-                                <div class="author-info">
-                                    <h4>Hüseyin A.</h4>
-                                    <p class="location">Konya</p>
-                                    <span class="star-rating">
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Testimonial 2 -->
-                        <div class="testimonial-item">
-                            <div class="testimonial-content">
-                                <span class="svg-icon quote-icon" style="width:40px; height:40px; color:#9cc212;">
-                                    <svg>
-                                        <use href="#icon-quotation"></use>
-                                    </svg>
-                                </span>
-                                <p class="testimonial-text">"Thanks to the naturwin we have used for our products for
-                                    years, we have never been a victim. We thank you."</p>
-                            </div>
-                            <div class="testimonial-author">
-                                <div class="author-image">
-                                    <img src="images/testimonial-2.png" alt="Nazmi Ç.">
-                                </div>
-                                <div class="author-info">
-                                    <h4>Nazmi Ç.</h4>
-                                    <p class="location">Bursa</p>
-                                    <span class="star-rating">
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                        <i class="fa fa-star"></i>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="testimonial-dots">
-                        <span class="dot active" data-index="0"></span>
-                        <span class="dot" data-index="1"></span>
-                    </div>
-                </div>
-            </section>
         </div>
 
         <!-- Footer Widgets -->
@@ -1812,7 +1604,7 @@
                     <!-- Footer Column 1 - Logo -->
                     <div class="footer-col">
                         <div class="logo">
-                            <h3 style="color: #2d5016; font-size: 24px; margin: 0 0 10px 0;">Farmer Group</h3>
+                            <a href="index.html" class="footer-logo"><img src="images/logo.png" alt="Farmer Group" style="max-width: 160px; height: auto; display: block; filter: brightness(0) invert(1); margin-bottom: 10px;"></a>
                             <p style="color: #666; font-size: 14px; line-height: 1.6; margin: 0;">Providing quality agricultural products and fertilizers to farmers for better yield and sustainable farming.</p>
                         </div>
                     </div>
@@ -1857,7 +1649,7 @@
         <!-- Footer Copyright -->
         <footer id="colophon" class="site-footer">
             <div class="container footer-info">
-                <p>Build By <a href="https://www.kaleemify.com">Kaleemify</a> | Copyright © 2010 - 2026 All rights reserved.</p>
+                <p>Build By <a href="https://www.kaleemify.com">Kaleemify</a> | Farmer Group Copyright © 2010 - 2026 All rights reserved.</p>
             </div>
         </footer>
     </div>
@@ -1876,6 +1668,10 @@
                 <ul class="sub-menu">
                     <li><a href="vegetable.html">Vegetable Seeds</a></li>
                     <li><a href="fruit.html">Fruit Seeds</a></li>
+                    <li><a href="flower.html">Flower Seed</a></li>
+                    <li><a href="field-crop.html">Field Crop Seed</a></li>
+                    <li><a href="fertilizer.html">Fertilizer</a></li>
+                    <li><a href="pesticides.html">Pesticides</a></li>
                 </ul>
             </li>
             <li><a href="contact.html">Contact</a></li>
@@ -2045,34 +1841,6 @@
             };
 
             // ============================================
-            // Testimonials Slider (Dots)
-            // ============================================
-
-            const testimonialsInit = () => {
-                const dots = document.querySelectorAll('.testimonial-dots .dot');
-                const testimonials = document.querySelectorAll('.testimonial-item');
-
-                if (dots.length === 0) return;
-
-                dots.forEach((dot, index) => {
-                    dot.addEventListener('click', () => {
-                        // Update dots
-                        dots.forEach(d => d.classList.remove('active'));
-                        dot.classList.add('active');
-
-                        // Scroll to testimonial (for mobile)
-                        if (window.innerWidth <= 768 && testimonials[index]) {
-                            testimonials[index].scrollIntoView({
-                                behavior: 'smooth',
-                                block: 'nearest',
-                                inline: 'start'
-                            });
-                        }
-                    });
-                });
-            };
-
-            // ============================================
             // Smooth Scroll for Anchor Links
             // ============================================
 
@@ -2207,7 +1975,7 @@
             // ============================================
 
             const animateOnScrollInit = () => {
-                const animatedElements = document.querySelectorAll('.feature-box, .service-card, .testimonial-item');
+                const animatedElements = document.querySelectorAll('.feature-box, .service-card');
 
                 if ('IntersectionObserver' in window) {
                     const observer = new IntersectionObserver((entries) => {
@@ -2243,7 +2011,6 @@
 
             sliderInit();
             mobileNavInit();
-            testimonialsInit();
             smoothScrollInit();
             // stickyHeaderInit(); // Uncomment if you want sticky header
             newsletterInit();
@@ -2304,3 +2071,5 @@
 </body>
 
 </html>
+
+

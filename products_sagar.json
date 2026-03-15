@@ -1,0 +1,434 @@
+﻿[
+    {
+        "slug":  "sagar-king-f-1-hybrid-watermelon-seeds",
+        "title":  "Sagar King",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-sagar-king-f-1-hybrid-watermelon-seeds.png"
+    },
+    {
+        "slug":  "sagar-king",
+        "title":  "Sagar King +",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-sagar-king.png"
+    },
+    {
+        "slug":  "marvel",
+        "title":  "Marvel",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-marvel.png"
+    },
+    {
+        "slug":  "don",
+        "title":  "Don",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-don.png"
+    },
+    {
+        "slug":  "rambo",
+        "title":  "Rambo",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-rambo.png"
+    },
+    {
+        "slug":  "black-badshah",
+        "title":  "Black Badshah",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-black-badshah.png"
+    },
+    {
+        "slug":  "royal-king",
+        "title":  "Royal King",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-royal-king.png"
+    },
+    {
+        "slug":  "karina-king-f-1-hybrid-watermelon-seeds",
+        "title":  "Karina King",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-karina-king-f-1-hybrid-watermelon-seeds.png"
+    },
+    {
+        "slug":  "mahabali",
+        "title":  "Mahabali",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-mahabali.png"
+    },
+    {
+        "slug":  "karnal",
+        "title":  "Karnal",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-karnal.png"
+    },
+    {
+        "slug":  "kanak",
+        "title":  "Kanak - %",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-kanak.png"
+    },
+    {
+        "slug":  "captain",
+        "title":  "Captain",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-captain.png"
+    },
+    {
+        "slug":  "shivay",
+        "title":  "Shivay",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-shivay.png"
+    },
+    {
+        "slug":  "golden-king",
+        "title":  "Golden King",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-golden-king.png"
+    },
+    {
+        "slug":  "maharaja-f-1-hybrid-watermelon-seeds",
+        "title":  "Maharaja",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-maharaja-f-1-hybrid-watermelon-seeds.png"
+    },
+    {
+        "slug":  "supreme",
+        "title":  "Supreme",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-supreme.png"
+    },
+    {
+        "slug":  "turbo",
+        "title":  "Turbo",
+        "category":  "watermelon",
+        "image":  "images/sagar-watermelon-turbo.png"
+    },
+    {
+        "slug":  "vijay",
+        "title":  "Vijay",
+        "category":  "melon",
+        "image":  "images/sagar-melon-vijay.png"
+    },
+    {
+        "slug":  "chandan",
+        "title":  "Chandan",
+        "category":  "melon",
+        "image":  "images/sagar-melon-chandan.png"
+    },
+    {
+        "slug":  "crysta",
+        "title":  "Crysta",
+        "category":  "melon",
+        "image":  "images/sagar-melon-crysta.png"
+    },
+    {
+        "slug":  "sagar-60",
+        "title":  "Sagar-60",
+        "category":  "melon",
+        "image":  "images/sagar-melon-sagar-60.png"
+    },
+    {
+        "slug":  "sagar-70",
+        "title":  "sagar-70",
+        "category":  "melon",
+        "image":  "images/sagar-melon-sagar-70.png"
+    },
+    {
+        "slug":  "green-glory",
+        "title":  "Green Glory",
+        "category":  "melon",
+        "image":  "images/sagar-melon-green-glory.png"
+    },
+    {
+        "slug":  "madhurani",
+        "title":  "Madhurani",
+        "category":  "melon",
+        "image":  "images/sagar-melon-madhurani.png"
+    },
+    {
+        "slug":  "403",
+        "title":  "403",
+        "category":  "melon",
+        "image":  "images/sagar-melon-403.png"
+    },
+    {
+        "slug":  "prachi-chilli-seeds",
+        "title":  "Prachi",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-prachi-chilli-seeds.png"
+    },
+    {
+        "slug":  "chandrika-30-f-1-hybrid-chili-seeds",
+        "title":  "Chandrika-30",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-chandrika-30-f-1-hybrid-chili-seeds.png"
+    },
+    {
+        "slug":  "kalyani",
+        "title":  "Kalyani",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-kalyani.png"
+    },
+    {
+        "slug":  "sagar-31",
+        "title":  "Sagar 31",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-sagar-31.png"
+    },
+    {
+        "slug":  "gomati",
+        "title":  "Gomati",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-gomati.png"
+    },
+    {
+        "slug":  "brahma",
+        "title":  "Brahma",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-brahma.png"
+    },
+    {
+        "slug":  "katar",
+        "title":  "Katar",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-katar.png"
+    },
+    {
+        "slug":  "parvati",
+        "title":  "Parvati",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-parvati.png"
+    },
+    {
+        "slug":  "reva",
+        "title":  "Reva",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-reva.png"
+    },
+    {
+        "slug":  "revati",
+        "title":  "Revati",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-revati.png"
+    },
+    {
+        "slug":  "tapi",
+        "title":  "Tapi",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-tapi.png"
+    },
+    {
+        "slug":  "tejas-2",
+        "title":  "Tejas",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-tejas-2.png"
+    },
+    {
+        "slug":  "sagar-11",
+        "title":  "Sagar 11",
+        "category":  "pepper",
+        "image":  "images/sagar-pepper-sagar-11.png"
+    },
+    {
+        "slug":  "shruti",
+        "title":  "Shruti",
+        "category":  "cucumber",
+        "image":  "images/sagar-cucumber-shruti.png"
+    },
+    {
+        "slug":  "shravani",
+        "title":  "Shravani",
+        "category":  "cucumber",
+        "image":  "images/sagar-cucumber-shravani.png"
+    },
+    {
+        "slug":  "tanvi-111",
+        "title":  "Tanvi-111",
+        "category":  "cucumber",
+        "image":  "images/sagar-cucumber-tanvi-111.png"
+    },
+    {
+        "slug":  "kavya",
+        "title":  "Kavya",
+        "category":  "cucumber",
+        "image":  "images/sagar-cucumber-kavya.png"
+    },
+    {
+        "slug":  "avani",
+        "title":  "Avani",
+        "category":  "cucumber",
+        "image":  "images/sagar-cucumber-avani.png"
+    },
+    {
+        "slug":  "naresh",
+        "title":  "Naresh",
+        "category":  "vegetable",
+        "image":  "images/sagar-vegetable-naresh.png"
+    },
+    {
+        "slug":  "ridhima",
+        "title":  "Ridhima",
+        "category":  "vegetable",
+        "image":  "images/sagar-vegetable-ridhima.png"
+    },
+    {
+        "slug":  "tejas",
+        "title":  "Tejas",
+        "category":  "tomato",
+        "image":  "images/sagar-tomato-tejas.png"
+    },
+    {
+        "slug":  "tulsi",
+        "title":  "Tulsi",
+        "category":  "tomato",
+        "image":  "images/sagar-tomato-tulsi.png"
+    },
+    {
+        "slug":  "1250",
+        "title":  "Shiva",
+        "category":  "tomato",
+        "image":  "images/sagar-tomato-1250.png"
+    },
+    {
+        "slug":  "sagar-44",
+        "title":  "Sagar-44",
+        "category":  "tomato",
+        "image":  "images/sagar-tomato-sagar-44.png"
+    },
+    {
+        "slug":  "ashoka-f-1-hybrid-pumpkin-seeds",
+        "title":  "Ashoka",
+        "category":  "pumpkin",
+        "image":  "images/sagar-pumpkin-ashoka-f-1-hybrid-pumpkin-seeds.png"
+    },
+    {
+        "slug":  "karna-f-1-hybrid-pumpkin-seeds",
+        "title":  "Karna",
+        "category":  "pumpkin",
+        "image":  "images/sagar-pumpkin-karna-f-1-hybrid-pumpkin-seeds.png"
+    },
+    {
+        "slug":  "anu",
+        "title":  "Anu",
+        "category":  "pumpkin",
+        "image":  "images/sagar-pumpkin-anu.png"
+    },
+    {
+        "slug":  "1515",
+        "title":  "1515",
+        "category":  "bitter-gourd",
+        "image":  "images/sagar-bitter-gourd-1515.png"
+    },
+    {
+        "slug":  "sakshi",
+        "title":  "Sakshi",
+        "category":  "bitter-gourd",
+        "image":  "images/sagar-bitter-gourd-sakshi.png"
+    },
+    {
+        "slug":  "sneha-75",
+        "title":  "Sneha-75",
+        "category":  "bitter-gourd",
+        "image":  "images/sagar-bitter-gourd-sneha-75.png"
+    },
+    {
+        "slug":  "tanush",
+        "title":  "Tanush",
+        "category":  "bitter-gourd",
+        "image":  "images/sagar-bitter-gourd-tanush.png"
+    },
+    {
+        "slug":  "tarika",
+        "title":  "Tarika",
+        "category":  "bitter-gourd",
+        "image":  "images/sagar-bitter-gourd-tarika.png"
+    },
+    {
+        "slug":  "rasili",
+        "title":  "Rasili",
+        "category":  "bottle-gourd",
+        "image":  "images/sagar-bottle-gourd-rasili.png"
+    },
+    {
+        "slug":  "garima",
+        "title":  "garima",
+        "category":  "bottle-gourd",
+        "image":  "images/sagar-bottle-gourd-garima.png"
+    },
+    {
+        "slug":  "janki",
+        "title":  "Janki",
+        "category":  "sponge-gourd",
+        "image":  "images/sagar-sponge-gourd-janki.png"
+    },
+    {
+        "slug":  "devki",
+        "title":  "Devki",
+        "category":  "sponge-gourd",
+        "image":  "images/sagar-sponge-gourd-devki.png"
+    },
+    {
+        "slug":  "vaishali",
+        "title":  "Vaishali",
+        "category":  "ridge-gourd",
+        "image":  "images/sagar-ridge-gourd-vaishali.png"
+    },
+    {
+        "slug":  "kanishk",
+        "title":  "Kanishk",
+        "category":  "onion",
+        "image":  "images/sagar-onion-kanishk.png"
+    },
+    {
+        "slug":  "satvam",
+        "title":  "Satvam",
+        "category":  "flower",
+        "image":  "images/sagar-flower-satvam.png"
+    },
+    {
+        "slug":  "royal-orange",
+        "title":  "Royal Orange",
+        "category":  "flower",
+        "image":  "images/sagar-flower-royal-orange.png"
+    },
+    {
+        "slug":  "yellow-karina-f-1-hybrid-marigold-seeds",
+        "title":  "Yellow Karina",
+        "category":  "flower",
+        "image":  "images/sagar-flower-yellow-karina-f-1-hybrid-marigold-seeds.png"
+    },
+    {
+        "slug":  "royal-orange-f-1-hybrid-marigold-seeds",
+        "title":  "Radhe",
+        "category":  "flower",
+        "image":  "images/sagar-flower-royal-orange-f-1-hybrid-marigold-seeds.png"
+    },
+    {
+        "slug":  "sagar-5",
+        "title":  "Sagar-5",
+        "category":  "field-crop",
+        "image":  "images/sagar-field-crop-sagar-5.png"
+    },
+    {
+        "slug":  "yellow-sticky-trap",
+        "title":  "Yellow Sticky Trap",
+        "category":  "pesticides",
+        "image":  "images/sagar-pesticides-yellow-sticky-trap.png"
+    },
+    {
+        "slug":  "blue-sticky-trap",
+        "title":  "Blue Sticky Trap",
+        "category":  "pesticides",
+        "image":  "images/sagar-pesticides-blue-sticky-trap.png"
+    },
+    {
+        "slug":  "white-sticky-trap",
+        "title":  "White Sticky Trap",
+        "category":  "pesticides",
+        "image":  "images/sagar-pesticides-white-sticky-trap.png"
+    },
+    {
+        "slug":  "fruit-fly-trap",
+        "title":  "Fruit Fly Trap",
+        "category":  "pesticides",
+        "image":  "images/sagar-pesticides-fruit-fly-trap.png"
+    }
+]

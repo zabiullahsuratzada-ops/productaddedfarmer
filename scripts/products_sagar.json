@@ -1,0 +1,390 @@
+﻿{
+    "field-crop":  [
+                       {
+                           "title":  "Sagar-5 -",
+                           "slug":  "sagar-5",
+                           "image":  "images/sagar-field-crop-sagar-5.png"
+                       }
+                   ],
+    "ridge-gourd":  [
+                        {
+                            "title":  "Vaishali -",
+                            "slug":  "vaishali",
+                            "image":  "images/sagar-ridge-gourd-vaishali.png"
+                        }
+                    ],
+    "watermelon":  [
+                       {
+                           "title":  "Sagar King -",
+                           "slug":  "sagar-king-f-1-hybrid-watermelon-seeds",
+                           "image":  "images/sagar-watermelon-sagar-king-f-1-hybrid-watermelon-seeds.png"
+                       },
+                       {
+                           "title":  "Sagar King + -",
+                           "slug":  "sagar-king",
+                           "image":  "images/sagar-watermelon-sagar-king.png"
+                       },
+                       {
+                           "title":  "Marvel -",
+                           "slug":  "marvel",
+                           "image":  "images/sagar-watermelon-marvel.png"
+                       },
+                       {
+                           "title":  "Don -",
+                           "slug":  "don",
+                           "image":  "images/sagar-watermelon-don.png"
+                       },
+                       {
+                           "title":  "Rambo -",
+                           "slug":  "rambo",
+                           "image":  "images/sagar-watermelon-rambo.png"
+                       },
+                       {
+                           "title":  "Black Badshah -",
+                           "slug":  "black-badshah",
+                           "image":  "images/sagar-watermelon-black-badshah.png"
+                       },
+                       {
+                           "title":  "Royal King -",
+                           "slug":  "royal-king",
+                           "image":  "images/sagar-watermelon-royal-king.png"
+                       },
+                       {
+                           "title":  "Karina King -",
+                           "slug":  "karina-king-f-1-hybrid-watermelon-seeds",
+                           "image":  "images/sagar-watermelon-karina-king-f-1-hybrid-watermelon-seeds.png"
+                       },
+                       {
+                           "title":  "Mahabali -",
+                           "slug":  "mahabali",
+                           "image":  "images/sagar-watermelon-mahabali.png"
+                       },
+                       {
+                           "title":  "Karnal -",
+                           "slug":  "karnal",
+                           "image":  "images/sagar-watermelon-karnal.png"
+                       },
+                       {
+                           "title":  "Kanak - %",
+                           "slug":  "kanak",
+                           "image":  "images/sagar-watermelon-kanak.png"
+                       },
+                       {
+                           "title":  "Captain -",
+                           "slug":  "captain",
+                           "image":  "images/sagar-watermelon-captain.png"
+                       },
+                       {
+                           "title":  "Shivay -",
+                           "slug":  "shivay",
+                           "image":  "images/sagar-watermelon-shivay.png"
+                       },
+                       {
+                           "title":  "Golden King -",
+                           "slug":  "golden-king",
+                           "image":  "images/sagar-watermelon-golden-king.png"
+                       },
+                       {
+                           "title":  "Maharaja -",
+                           "slug":  "maharaja-f-1-hybrid-watermelon-seeds",
+                           "image":  "images/sagar-watermelon-maharaja-f-1-hybrid-watermelon-seeds.png"
+                       },
+                       {
+                           "title":  "Supreme -",
+                           "slug":  "supreme",
+                           "image":  "images/sagar-watermelon-supreme.png"
+                       },
+                       {
+                           "title":  "Turbo -",
+                           "slug":  "turbo",
+                           "image":  "images/sagar-watermelon-turbo.png"
+                       }
+                   ],
+    "melon":  [
+                  {
+                      "title":  "Vijay -",
+                      "slug":  "vijay",
+                      "image":  "images/sagar-melon-vijay.png"
+                  },
+                  {
+                      "title":  "Chandan -",
+                      "slug":  "chandan",
+                      "image":  "images/sagar-melon-chandan.png"
+                  },
+                  {
+                      "title":  "Crysta -",
+                      "slug":  "crysta",
+                      "image":  "images/sagar-melon-crysta.png"
+                  },
+                  {
+                      "title":  "Sagar-60 -",
+                      "slug":  "sagar-60",
+                      "image":  "images/sagar-melon-sagar-60.png"
+                  },
+                  {
+                      "title":  "sagar-70 -",
+                      "slug":  "sagar-70",
+                      "image":  "images/sagar-melon-sagar-70.png"
+                  },
+                  {
+                      "title":  "Green Glory -",
+                      "slug":  "green-glory",
+                      "image":  "images/sagar-melon-green-glory.png"
+                  },
+                  {
+                      "title":  "Madhurani -",
+                      "slug":  "madhurani",
+                      "image":  "images/sagar-melon-madhurani.png"
+                  },
+                  {
+                      "title":  "403 -",
+                      "slug":  "403",
+                      "image":  "images/sagar-melon-403.png"
+                  }
+              ],
+    "tomato":  [
+                   {
+                       "title":  "Tejas -",
+                       "slug":  "tejas",
+                       "image":  "images/sagar-tomato-tejas.png"
+                   },
+                   {
+                       "title":  "Tulsi -",
+                       "slug":  "tulsi",
+                       "image":  "images/sagar-tomato-tulsi.png"
+                   },
+                   {
+                       "title":  "Shiva -",
+                       "slug":  "1250",
+                       "image":  "images/sagar-tomato-1250.png"
+                   },
+                   {
+                       "title":  "Sagar-44 -",
+                       "slug":  "sagar-44",
+                       "image":  "images/sagar-tomato-sagar-44.png"
+                   }
+               ],
+    "pumpkin":  [
+                    {
+                        "title":  "Ashoka -",
+                        "slug":  "ashoka-f-1-hybrid-pumpkin-seeds",
+                        "image":  "images/sagar-pumpkin-ashoka-f-1-hybrid-pumpkin-seeds.png"
+                    },
+                    {
+                        "title":  "Karna -",
+                        "slug":  "karna-f-1-hybrid-pumpkin-seeds",
+                        "image":  "images/sagar-pumpkin-karna-f-1-hybrid-pumpkin-seeds.png"
+                    },
+                    {
+                        "title":  "Anu -",
+                        "slug":  "anu",
+                        "image":  "images/sagar-pumpkin-anu.png"
+                    }
+                ],
+    "flower":  [
+                   {
+                       "title":  "Satvam -",
+                       "slug":  "satvam",
+                       "image":  "images/sagar-flower-satvam.png"
+                   },
+                   {
+                       "title":  "Royal Orange -",
+                       "slug":  "royal-orange",
+                       "image":  "images/sagar-flower-royal-orange.png"
+                   },
+                   {
+                       "title":  "Yellow Karina -",
+                       "slug":  "yellow-karina-f-1-hybrid-marigold-seeds",
+                       "image":  "images/sagar-flower-yellow-karina-f-1-hybrid-marigold-seeds.png"
+                   },
+                   {
+                       "title":  "Radhe -",
+                       "slug":  "royal-orange-f-1-hybrid-marigold-seeds",
+                       "image":  "images/sagar-flower-royal-orange-f-1-hybrid-marigold-seeds.png"
+                   }
+               ],
+    "pepper":  [
+                   {
+                       "title":  "Prachi -",
+                       "slug":  "prachi-chilli-seeds",
+                       "image":  "images/sagar-pepper-prachi-chilli-seeds.png"
+                   },
+                   {
+                       "title":  "Chandrika-30 -",
+                       "slug":  "chandrika-30-f-1-hybrid-chili-seeds",
+                       "image":  "images/sagar-pepper-chandrika-30-f-1-hybrid-chili-seeds.png"
+                   },
+                   {
+                       "title":  "Kalyani -",
+                       "slug":  "kalyani",
+                       "image":  "images/sagar-pepper-kalyani.png"
+                   },
+                   {
+                       "title":  "Sagar 31 -",
+                       "slug":  "sagar-31",
+                       "image":  "images/sagar-pepper-sagar-31.png"
+                   },
+                   {
+                       "title":  "Gomati -",
+                       "slug":  "gomati",
+                       "image":  "images/sagar-pepper-gomati.png"
+                   },
+                   {
+                       "title":  "Brahma -",
+                       "slug":  "brahma",
+                       "image":  "images/sagar-pepper-brahma.png"
+                   },
+                   {
+                       "title":  "Katar -",
+                       "slug":  "katar",
+                       "image":  "images/sagar-pepper-katar.png"
+                   },
+                   {
+                       "title":  "Parvati -",
+                       "slug":  "parvati",
+                       "image":  "images/sagar-pepper-parvati.png"
+                   },
+                   {
+                       "title":  "Reva -",
+                       "slug":  "reva",
+                       "image":  "images/sagar-pepper-reva.png"
+                   },
+                   {
+                       "title":  "Revati -",
+                       "slug":  "revati",
+                       "image":  "images/sagar-pepper-revati.png"
+                   },
+                   {
+                       "title":  "Tapi -",
+                       "slug":  "tapi",
+                       "image":  "images/sagar-pepper-tapi.png"
+                   },
+                   {
+                       "title":  "Tejas -",
+                       "slug":  "tejas-2",
+                       "image":  "images/sagar-pepper-tejas-2.png"
+                   },
+                   {
+                       "title":  "Sagar 11 -",
+                       "slug":  "sagar-11",
+                       "image":  "images/sagar-pepper-sagar-11.png"
+                   }
+               ],
+    "other-vegetables":  [
+                             {
+                                 "title":  "Naresh -",
+                                 "slug":  "naresh",
+                                 "image":  "images/sagar-other-vegetables-naresh.png"
+                             },
+                             {
+                                 "title":  "Ridhima -",
+                                 "slug":  "ridhima",
+                                 "image":  "images/sagar-other-vegetables-ridhima.png"
+                             },
+                             {
+                                 "title":  "Kanishk -",
+                                 "slug":  "kanishk",
+                                 "image":  "images/sagar-other-vegetables-kanishk.png"
+                             }
+                         ],
+    "bottle-gourd":  [
+                         {
+                             "title":  "Rasili -",
+                             "slug":  "rasili",
+                             "image":  "images/sagar-bottle-gourd-rasili.png"
+                         },
+                         {
+                             "title":  "garima -",
+                             "slug":  "garima",
+                             "image":  "images/sagar-bottle-gourd-garima.png"
+                         }
+                     ],
+    "sponge-gourd":  [
+                         {
+                             "title":  "Janki -",
+                             "slug":  "janki",
+                             "image":  "images/sagar-sponge-gourd-janki.png"
+                         },
+                         {
+                             "title":  "Devki -",
+                             "slug":  "devki",
+                             "image":  "images/sagar-sponge-gourd-devki.png"
+                         }
+                     ],
+    "bitter-gourd":  [
+                         {
+                             "title":  "1515 -",
+                             "slug":  "1515",
+                             "image":  "images/sagar-bitter-gourd-1515.png"
+                         },
+                         {
+                             "title":  "Sakshi -",
+                             "slug":  "sakshi",
+                             "image":  "images/sagar-bitter-gourd-sakshi.png"
+                         },
+                         {
+                             "title":  "Sneha-75 -",
+                             "slug":  "sneha-75",
+                             "image":  "images/sagar-bitter-gourd-sneha-75.png"
+                         },
+                         {
+                             "title":  "Tanush -",
+                             "slug":  "tanush",
+                             "image":  "images/sagar-bitter-gourd-tanush.png"
+                         },
+                         {
+                             "title":  "Tarika -",
+                             "slug":  "tarika",
+                             "image":  "images/sagar-bitter-gourd-tarika.png"
+                         }
+                     ],
+    "pesticides":  [
+                       {
+                           "title":  "Yellow Sticky Trap -",
+                           "slug":  "yellow-sticky-trap",
+                           "image":  "images/sagar-pesticides-yellow-sticky-trap.png"
+                       },
+                       {
+                           "title":  "Blue Sticky Trap -",
+                           "slug":  "blue-sticky-trap",
+                           "image":  "images/sagar-pesticides-blue-sticky-trap.png"
+                       },
+                       {
+                           "title":  "White Sticky Trap -",
+                           "slug":  "white-sticky-trap",
+                           "image":  "images/sagar-pesticides-white-sticky-trap.png"
+                       },
+                       {
+                           "title":  "Fruit Fly Trap -",
+                           "slug":  "fruit-fly-trap",
+                           "image":  "images/sagar-pesticides-fruit-fly-trap.png"
+                       }
+                   ],
+    "cucumber":  [
+                     {
+                         "title":  "Shruti -",
+                         "slug":  "shruti",
+                         "image":  "images/sagar-cucumber-shruti.png"
+                     },
+                     {
+                         "title":  "Shravani -",
+                         "slug":  "shravani",
+                         "image":  "images/sagar-cucumber-shravani.png"
+                     },
+                     {
+                         "title":  "Tanvi-111 -",
+                         "slug":  "tanvi-111",
+                         "image":  "images/sagar-cucumber-tanvi-111.png"
+                     },
+                     {
+                         "title":  "Kavya -",
+                         "slug":  "kavya",
+                         "image":  "images/sagar-cucumber-kavya.png"
+                     },
+                     {
+                         "title":  "Avani -",
+                         "slug":  "avani",
+                         "image":  "images/sagar-cucumber-avani.png"
+                     }
+                 ]
+}

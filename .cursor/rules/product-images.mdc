@@ -1,0 +1,17 @@
+# Farmer Group – Product images & duplicates
+
+## Product image workflow
+- Jab user product ki image de:
+  1. Image ko `images` folder mein save karo (category ke hisaab se filename, e.g. `tomato-xyz.png`, `pepper-abc.png`).
+  2. Packaging se **sirf wahi** title aur short description lo (pipe `|` separated style).
+  3. Image dekh kar category decide karo: tomato → tomato.html, pepper → pepper.html, cucumber → cucumber.html, eggplant → eggplant.html, melon → melon.html, watermelon → watermelon.html, pumpkin/kabak → pumpkin.html.
+  4. Usi page ke product-grid mein naya product card add karo (image, title, description, Contact Us button).
+
+## Duplicate rules (must follow)
+- **Same picture do dafa mat add karo:** Agar user wahi product image doosri dafa bheje (pehle se add ho chuki hai), to dubara add **na** karo. Pehle check karo: same image file path ya same product title/code pehle se kisi page par to nahi.
+- **Pehle se duplicate remove karo:** Agar kisi page par koi product do dafa add ho chuka ho (same title ya same product image src), to extra wala card **remove** karo — har product page par sirf ek hi baar hona chahiye.
+
+## Summary
+- Nayi image → packaging se title/description → sahi category page par add.
+- Same image again → add mat karo.
+- Duplicate product on page → doosra wala hata do.
