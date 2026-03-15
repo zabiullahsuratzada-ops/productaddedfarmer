@@ -1004,7 +1004,7 @@
     <a href="https://wa.me/93787727204" class="whatsapp-float" title="WhatsApp" target="_blank">
         <i class="fa-brands fa-whatsapp"></i>
     </a>
-    <script>(function(){ var b=window.FARMER_GROUP_API_BASE||window.location.origin||''; if(!b||b==='null'||b.indexOf('file')===0)return; var fb=document.getElementById('social-fb-count'); var ig=document.getElementById('social-ig-count'); if(fb&&ig) fetch(b+'/api/social-stats').then(function(r){return r.json();}).then(function(d){ if(typeof d.facebook==='number') fb.textContent=d.facebook.toLocaleString(); if(typeof d.instagram==='number') ig.textContent=d.instagram.toLocaleString(); }).catch(function(){}); })();</script>
+    <script>(function(){ var fb=document.getElementById('social-fb-count'); var ig=document.getElementById('social-ig-count'); if(!fb||!ig)return; var base=window.FARMER_GROUP_API_BASE||(window.location.origin&&window.location.protocol!='file:'?window.location.origin:''); var apiUrl=base?base+'/api/social-stats':'/api/social-stats'; var dataUrl=base?base+'/data/social-stats.json':'/data/social-stats.json'; function setCounts(d){ if(d&&typeof d.facebook==='number')fb.textContent=d.facebook.toLocaleString(); if(d&&typeof d.instagram==='number')ig.textContent=d.instagram.toLocaleString(); } fetch(apiUrl).then(function(r){return r.json();}).then(setCounts).catch(function(){ fetch(dataUrl).then(function(r){return r.json();}).then(setCounts).catch(function(){}); }); })();</script>
 
 </body>
 
