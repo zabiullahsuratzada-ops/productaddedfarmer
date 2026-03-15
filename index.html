@@ -2071,9 +2071,10 @@
             // Log initialization
             // Load live social followers (Facebook / Instagram) from Node API
             const loadSocialStats = () => {
-                const apiBase = window.FARMER_GROUP_API_BASE || '';
-                const fbEl = document.getElementById('social-fb-count');
-                const igEl = document.getElementById('social-ig-count');
+                var apiBase = window.FARMER_GROUP_API_BASE || window.location.origin || '';
+                if (!apiBase || apiBase === 'null' || apiBase.indexOf('file') === 0) return;
+                var fbEl = document.getElementById('social-fb-count');
+                var igEl = document.getElementById('social-ig-count');
                 if (!fbEl || !igEl) return;
                 fetch(apiBase + '/api/social-stats').then(function (r) { return r.json(); }).then(function (data) {
                     if (typeof data.facebook === 'number') fbEl.textContent = data.facebook.toLocaleString();

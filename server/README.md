@@ -3,9 +3,12 @@
 Yeh Node server Facebook aur Instagram ke **live follower counts** website par dikhane ke liye use hota hai.
 
 **Agar counts "—" hi dikh rahe hain:**  
-1) Server chalayein: `cd server && npm install && npm start`, phir site **http://localhost:3000** se open karein (taake `/api/social-stats` same origin ho).  
-2) `.env` mein `FACEBOOK_PAGE_ID` aur `FACEBOOK_ACCESS_TOKEN` zaroor set karein (see below).  
-3) Facebook share link se numeric Page ID nahi milta – Page → Settings → About se Page ID copy karein.
+1) **Site hamesha Node server se kholen** – file par double-click mat karein.  
+   - Root folder mein **START-SERVER.bat** chalayein, **ya**  
+   - Terminal: `cd server` → `npm install` → `npm start`  
+   - Browser mein **http://localhost:3000** open karein (ye URL zaroor use karein).  
+2) `.env` mein `FACEBOOK_PAGE_ID` aur `FACEBOOK_ACCESS_TOKEN` set karein (see below) – tab hi real numbers aayenge; bina .env ke "0" dikhega.  
+3) Facebook share link se numeric Page ID nahi milta – **Page → Settings → About** se Page ID copy karein.
 
 ## Kaise kaam karta hai
 
