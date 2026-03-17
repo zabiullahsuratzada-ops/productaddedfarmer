@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Farmer Group",
+  "alternateName": "Farmer Group Afghanistan",
+  "url": "https://farmergroupaf.com",
+  "logo": "https://farmergroupaf.com/images/logo.png",
+  "description": "Leading supplier of quality fertilizers, seeds and plant protection products in Afghanistan. Trusted by thousands of farmers since 2011.",
+  "foundingDate": "2011",
+  "email": "info@farmergroupaf.com",
+  "telephone": "+93787727204",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "AF",
+    "addressLocality": "Afghanistan"
+  },
+  "sameAs": [
+    "https://www.facebook.com/farmergroupaf",
+    "https://www.instagram.com/farmergroupaf"
+  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "Afghanistan"
+  }
+}

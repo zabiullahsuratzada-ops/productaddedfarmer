@@ -1,0 +1,12 @@
+# Farmer Group Afghanistan - robots.txt
+# https://farmergroupaf.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location (submit this in Google Search Console)
+Sitemap: https://farmergroupaf.com/sitemap.xml
+
+# Optional: block admin/temp files if you add them later
+Disallow: /_temp_product.html
+Disallow: /*.bak$
